@@ -4,7 +4,7 @@
 
 # Hi, I'm Narendar Mandala 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Senior+Director+%7C+Data+%26+AI+Strategy;Enterprise+Data+Architect+%7C+AI%2FML+%26+GenAI;Snowflake+%7C+Databricks+%7C+Azure+Expert;17%2B+Years+Turning+Data+into+Business+Value)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=750&lines=Senior+Manager+%7C+Data+Engineering+%26+BI+Leadership;Building+Pipelines+%7C+Leading+Teams+%7C+Delivering+Insights;Microsoft+Fabric+%7C+Databricks+%7C+Azure+Expert;17%2B+Years+Bridging+Business+%26+Technical+Delivery)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,16 +12,25 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a **Senior Director of Data, Analytics & AI** with **17+ years** of experience leading enterprise-scale data transformation, AI-native analytics strategy, and forward-deployed technology engagements at Fortune 500 companies. I bridge the gap between executive strategy and technical execution — translating complex operational challenges into scalable, intelligent data platforms.
+I'm a **Senior Manager** with **17+ years of experience** in data engineering, business intelligence, and analytics leadership — at the intersection of technical delivery and business impact.
 
-Currently at **Ernst & Young (EY-Parthenon)**, I architect enterprise solutions on **Snowflake, Databricks, and Microsoft Azure**, define reference architectures adopted by 1,200+ users across 70+ countries, and drive $3B+ in value realization for global clients.
+My day-to-day is about **owning end-to-end BI and data delivery** for transaction teams: from gathering requirements and building robust data pipelines, to the dashboards and reports my business stakeholders rely on to make decisions. Most of my career at **Ernst & Young (EY-Parthenon)** has been focused on the **M&A service line** — building data and analytics solutions that help partners execute global, multi-billion dollar transactions.
 
-I also share insights and thought leadership on data, AI, and architecture on my blog 👉 [**narendarmandala.substack.com**](https://narendarmandala.substack.com/)
+I think of **leadership as giving clarity**. My role is to sit between the business and the technical team — understanding the problem, shaping the right data questions, and translating business requirements into technical specs my team can build. I lead onshore and offshore BI teams, run daily standups, handle blockers and escalations, and make sure everyone knows exactly how their work connects to what the business needs.
 
-- 🧠 **AI-native thinker** — I've deployed anomaly detection, ML-powered forecasting, and Agentic AI in production for Fortune 500 clients
-- 🏗️ **Architect at heart** — I love designing Medallion / Data Lakehouse architectures and Data Mesh frameworks that actually scale
-- ✍️ **Content creator** — I write about data engineering, AI strategy, and modern architecture patterns
-- ☕ **Fun fact** — I've led data modernization across a $130B Fortune 70 merger and a $6.5B global pharma spin-off... and still make time for a good cup of chai
+As a **BI Product Owner**, I've owned BI roadmaps — planning what we're building today and where we need to be in the next one to two years. That includes tracking how technology is evolving (AI, automation, Microsoft Fabric), making sure we adopt the right tools, and ensuring we build something sustainable — not just solving for today.
+
+On the **people side**, I run regular one-on-ones focused on both work delivery and career growth, mentor team members, and foster a culture where people grow alongside the product they're building.
+
+In short — I'm a **bridge between business and technical delivery**, I lead teams end to end, and I care deeply about both the quality of the output and the growth of the people creating it. I'm hands-on and have broad experience across cloud platforms and modern analytics tooling.
+
+I share thoughts on data, leadership, and architecture on my blog 👉 [**narendarmandala.substack.com**](https://narendarmandala.substack.com/)
+
+- 🏗️ **Pipeline builder** — I design and deliver data pipelines end-to-end, from raw ingestion to business-ready dashboards
+- 🤝 **Business-technical bridge** — I translate stakeholder needs into clear technical requirements and make sure both sides speak the same language
+- 🧭 **BI Product Owner** — I own roadmaps, prioritize the right work, and keep the team aligned on what matters most
+- 🌍 **M&A specialist** — I've helped execute global, multi-billion dollar transactions through data solutions built for speed and scale
+- ☕ **Fun fact** — I've led data teams across time zones and still make time for a good cup of chai
 
 ---
 
@@ -29,9 +38,8 @@ I also share insights and thought leadership on data, AI, and architecture on my
 
 ### ☁️ Cloud & Data Platforms
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 🔧 Data Engineering & Architecture
@@ -70,30 +78,24 @@ I also share insights and thought leadership on data, AI, and architecture on my
 
 ---
 
-## 📈 GitHub Stats
+## 🎓 Certifications & Continuous Learning
 
-<div align="center">
+### ✅ Certifications
+| Badge | Certification | Issuer |
+|-------|--------------|--------|
+| 🏅 | **Databricks Certified Data Engineer Associate** | Databricks · 2025 |
+| 📊 | **Statistics for Data Science and Business Analysis** | Udemy |
 
-<img src="https://github-readme-stats.vercel.app/api?username=narendar-mandala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Narendar's GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendar-mandala&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+### 🤖 AI & Claude Learning Journey
+*Actively building towards Claude AI certification — exploring Anthropic's ecosystem:*
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=narendar-mandala&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=narendar-mandala&theme=darkhub&no-frame=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+| Course | Provider | Focus |
+|--------|----------|-------|
+| 🟠 **Claude 101** | Anthropic | Claude fundamentals & prompt engineering |
+| 💻 **Claude Code 101** | Anthropic | AI-assisted software development |
+| 🧠 **AI Fluency: Framework & Foundations** | Anthropic | AI strategy and literacy |
+| 🔌 **Building with the Claude API** | Anthropic | API integration & agentic workflows |
+| 🔗 **Introduction to Model Context Protocol** | Anthropic | MCP architecture for AI systems |
 
 ---
 
@@ -111,9 +113,9 @@ I also share insights and thought leadership on data, AI, and architecture on my
 
 <div align="center">
 
-*"Data is the new oil — but only if you know how to refine it."*
+*"Clarity is the most underrated leadership skill in data."*
 
-**Thanks for visiting! Let's build something intelligent together.** 🚀
+**Thanks for visiting! Let's build something meaningful together.** 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=narendar-mandala&color=6AD3F7&style=flat-square)
 
