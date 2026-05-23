@@ -24,7 +24,7 @@ I'm hands-on across cloud platforms and modern analytics tooling, and I share th
 - 🤝 **Business-technical bridge** — I translate stakeholder needs into clear technical requirements
 - 🧭 **BI Product Owner** — I own roadmaps, prioritize the right work, and align teams on what matters most
 - 🌍 **M&A specialist** — global, multi-billion dollar transactions powered by data solutions built for speed and scale
-- ☕ **Fun fact** — I've led data teams across time zones and still make time for a good cup of chai
+- ☕ **Fun fact** — I’ve spent so much time in analytics that I naturally start spotting patterns everywhere.
 
 
 ---
@@ -98,7 +98,7 @@ I'm hands-on across cloud platforms and modern analytics tooling, and I share th
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendar-mandala/)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://narendarmandala.substack.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/narendar-mandala)
 
