@@ -12,25 +12,20 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a **Senior Manager** with **17+ years of experience** in data engineering, business intelligence, and analytics leadership — at the intersection of technical delivery and business impact.
+Senior Manager with **17+ years** in data engineering, BI, and analytics leadership — owning end-to-end delivery for transaction teams at **Ernst & Young (EY-Parthenon)**, from building data pipelines to the dashboards and reports that drive multi-billion dollar M&A decisions.
 
-My day-to-day is about **owning end-to-end BI and data delivery** for transaction teams: from gathering requirements and building robust data pipelines, to the dashboards and reports my business stakeholders rely on to make decisions. Most of my career at **Ernst & Young (EY-Parthenon)** has been focused on the **M&A service line** — building data and analytics solutions that help partners execute global, multi-billion dollar transactions.
+I lead onshore and offshore BI teams as a **BI Product Owner** — sitting between the business and the technical team, translating requirements into delivery, and owning roadmaps that keep pace with how technology is evolving (AI, automation, Microsoft Fabric).
 
-I think of **leadership as giving clarity**. My role is to sit between the business and the technical team — understanding the problem, shaping the right data questions, and translating business requirements into technical specs my team can build. I lead onshore and offshore BI teams, run daily standups, handle blockers and escalations, and make sure everyone knows exactly how their work connects to what the business needs.
+My leadership philosophy is simple: **give clarity**. Make sure every person on the team understands how their work connects to what the business actually needs — and invest in their growth along the way.
 
-As a **BI Product Owner**, I've owned BI roadmaps — planning what we're building today and where we need to be in the next one to two years. That includes tracking how technology is evolving (AI, automation, Microsoft Fabric), making sure we adopt the right tools, and ensuring we build something sustainable — not just solving for today.
+I'm hands-on across cloud platforms and modern analytics tooling, and I share thoughts on data and leadership on my blog 👉 [**narendarmandala.substack.com**](https://narendarmandala.substack.com/)
 
-On the **people side**, I run regular one-on-ones focused on both work delivery and career growth, mentor team members, and foster a culture where people grow alongside the product they're building.
-
-In short — I'm a **bridge between business and technical delivery**, I lead teams end to end, and I care deeply about both the quality of the output and the growth of the people creating it. I'm hands-on and have broad experience across cloud platforms and modern analytics tooling.
-
-I share thoughts on data, leadership, and architecture on my blog 👉 [**narendarmandala.substack.com**](https://narendarmandala.substack.com/)
-
-- 🏗️ **Pipeline builder** — I design and deliver data pipelines end-to-end, from raw ingestion to business-ready dashboards
-- 🤝 **Business-technical bridge** — I translate stakeholder needs into clear technical requirements and make sure both sides speak the same language
-- 🧭 **BI Product Owner** — I own roadmaps, prioritize the right work, and keep the team aligned on what matters most
-- 🌍 **M&A specialist** — I've helped execute global, multi-billion dollar transactions through data solutions built for speed and scale
+- 🏗️ **Pipeline builder** — end-to-end data pipelines from raw ingestion to business-ready dashboards
+- 🤝 **Business-technical bridge** — I translate stakeholder needs into clear technical requirements
+- 🧭 **BI Product Owner** — I own roadmaps, prioritize the right work, and align teams on what matters most
+- 🌍 **M&A specialist** — global, multi-billion dollar transactions powered by data solutions built for speed and scale
 - ☕ **Fun fact** — I've led data teams across time zones and still make time for a good cup of chai
+
 
 ---
 
@@ -103,7 +98,7 @@ I share thoughts on data, leadership, and architecture on my blog 👉 [**narend
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR LINKEDIN URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://narendarmandala.substack.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/narendar-mandala)
 
